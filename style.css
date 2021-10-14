@@ -1,0 +1,50 @@
+.card{
+			border: #f54242 solid;
+			width: 300px;
+			height: 400px;
+			
+			 box-shadow: 1px 2px 4px black;
+			 position: relative;
+		     left: 450px;
+		}
+		.header{
+			width: 100%;
+			text-align: center;
+		}
+		.input-upper{
+			width: 248px;
+			height: 45px;
+		}
+		.cal-name{
+			text-align: center;
+			font:3rem;
+			color: #42f542;
+			font-size: 2rem;
+			font-weight: bold;
+
+
+		}
+		.button{
+			text-align: center;
+
+		}
+		.btn{
+			width: 60px;
+			height: 45px;
+			background-color: green;
+		}
+        .btn-style{
+        	width: 60px;
+			height: 45px;
+
+        	background-color: yellow;
+        }
+
+		.btn:hover {
+         background-color: red;
+         }
+         .btn-style:hover {
+         background-color: red;
+         }
+
+
